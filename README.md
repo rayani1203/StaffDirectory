@@ -1,0 +1,3 @@
+# StaffDirectory
+
+Linked list project for a user to create a directory of staff members, each with their own name, age, ID, and role. A staff member is created as an instance of a class with the previously stated member variables. These staff members (instances) are then added to a directory which is also its own class that contains a linked list of the staff members. Staff members can then be added or removed from this linked list in a multitude of ways. The linked list can also be sorted by the roles of the staff and the list can also be printed in a number of ways. The declarations for the classes are stored in individual .hpp files with their definitions in a shared .cpp file and the main program being run through main.cpp
